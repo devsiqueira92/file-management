@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "bylb0hJ+H82D7oWwYGqjHmoFy2XLbcev7KFAre2bOcYpq2SWZjB/krgGnzA7ef4FJazAURgY3fCyGx0wjEEl7Q==",
+  "success": true,
+  "projectFilePath": "D:\\personal-projects\\FileManagement\\FileManagement\\FileManagement.Application\\FileManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\esiqu\\.nuget\\packages\\aspnetcore.hashids\\2.0.0\\aspnetcore.hashids.2.0.0.nupkg.sha512",
+    "C:\\Users\\esiqu\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\esiqu\\.nuget\\packages\\fluentvalidation\\11.5.0\\fluentvalidation.11.5.0.nupkg.sha512",
+    "C:\\Users\\esiqu\\.nuget\\packages\\hashids.net\\1.4.1\\hashids.net.1.4.1.nupkg.sha512",
+    "C:\\Users\\esiqu\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.3\\microsoft.aspnetcore.authentication.jwtbearer.7.0.3.nupkg.sha512",
+    "C:\\Users\\esiqu\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\esiqu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\esiqu\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\esiqu\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.26.1\\microsoft.identitymodel.abstractions.6.26.1.nupkg.sha512",
+    "C:\\Users\\esiqu\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.26.1\\microsoft.identitymodel.jsonwebtokens.6.26.1.nupkg.sha512",
+    "C:\\Users\\esiqu\\.nuget\\packages\\microsoft.identitymodel.logging\\6.26.1\\microsoft.identitymodel.logging.6.26.1.nupkg.sha512",
+    "C:\\Users\\esiqu\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.15.1\\microsoft.identitymodel.protocols.6.15.1.nupkg.sha512",
+    "C:\\Users\\esiqu\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.15.1\\microsoft.identitymodel.protocols.openidconnect.6.15.1.nupkg.sha512",
+    "C:\\Users\\esiqu\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.26.1\\microsoft.identitymodel.tokens.6.26.1.nupkg.sha512",
+    "C:\\Users\\esiqu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\esiqu\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\esiqu\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\esiqu\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.26.1\\system.identitymodel.tokens.jwt.6.26.1.nupkg.sha512",
+    "C:\\Users\\esiqu\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
+    "C:\\Users\\esiqu\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\esiqu\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\esiqu\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\esiqu\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\esiqu\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

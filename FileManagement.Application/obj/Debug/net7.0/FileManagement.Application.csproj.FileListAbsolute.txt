@@ -1,0 +1,17 @@
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Application\bin\Debug\net7.0\FileManagement.Application.deps.json
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Application\bin\Debug\net7.0\FileManagement.Application.dll
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Application\bin\Debug\net7.0\FileManagement.Application.pdb
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Application\bin\Debug\net7.0\FileManagement.Domain.dll
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Application\bin\Debug\net7.0\FileManagement.Domain.pdb
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Application\obj\Debug\net7.0\FileManagement.Application.csproj.AssemblyReference.cache
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Application\obj\Debug\net7.0\FileManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Application\obj\Debug\net7.0\FileManagement.Application.AssemblyInfoInputs.cache
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Application\obj\Debug\net7.0\FileManagement.Application.AssemblyInfo.cs
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Application\obj\Debug\net7.0\FileManagement.Application.csproj.CoreCompileInputs.cache
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Application\obj\Debug\net7.0\FileManagement.Application.csproj.CopyComplete
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Application\obj\Debug\net7.0\FileManagement.Application.dll
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Application\obj\Debug\net7.0\refint\FileManagement.Application.dll
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Application\obj\Debug\net7.0\FileManagement.Application.pdb
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Application\obj\Debug\net7.0\ref\FileManagement.Application.dll
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Application\bin\Debug\net7.0\FileManagement.Shared.dll
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Application\bin\Debug\net7.0\FileManagement.Shared.pdb

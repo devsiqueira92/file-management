@@ -1,0 +1,14 @@
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Shared\bin\Debug\net7.0\FileManagement.Shared.deps.json
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Shared\bin\Debug\net7.0\FileManagement.Shared.dll
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Shared\bin\Debug\net7.0\FileManagement.Shared.pdb
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Shared\obj\Debug\net7.0\FileManagement.Shared.csproj.AssemblyReference.cache
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Shared\obj\Debug\net7.0\FileManagement.Shared.Exceptions.ResourceErrorsMessage.resources
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Shared\obj\Debug\net7.0\FileManagement.Shared.csproj.GenerateResource.cache
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Shared\obj\Debug\net7.0\FileManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Shared\obj\Debug\net7.0\FileManagement.Shared.AssemblyInfoInputs.cache
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Shared\obj\Debug\net7.0\FileManagement.Shared.AssemblyInfo.cs
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Shared\obj\Debug\net7.0\FileManagement.Shared.csproj.CoreCompileInputs.cache
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Shared\obj\Debug\net7.0\FileManagement.Shared.dll
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Shared\obj\Debug\net7.0\refint\FileManagement.Shared.dll
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Shared\obj\Debug\net7.0\FileManagement.Shared.pdb
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Shared\obj\Debug\net7.0\ref\FileManagement.Shared.dll
