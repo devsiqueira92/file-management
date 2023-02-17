@@ -1,0 +1,12 @@
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Domain\bin\Debug\net7.0\FileManagement.Domain.deps.json
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Domain\bin\Debug\net7.0\FileManagement.Domain.dll
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Domain\bin\Debug\net7.0\FileManagement.Domain.pdb
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Domain\obj\Debug\net7.0\FileManagement.Domain.csproj.AssemblyReference.cache
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Domain\obj\Debug\net7.0\FileManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Domain\obj\Debug\net7.0\FileManagement.Domain.AssemblyInfoInputs.cache
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Domain\obj\Debug\net7.0\FileManagement.Domain.AssemblyInfo.cs
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Domain\obj\Debug\net7.0\FileManagement.Domain.csproj.CoreCompileInputs.cache
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Domain\obj\Debug\net7.0\FileManagement.Domain.dll
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Domain\obj\Debug\net7.0\refint\FileManagement.Domain.dll
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Domain\obj\Debug\net7.0\FileManagement.Domain.pdb
+D:\personal-projects\FileManagement\FileManagement\FileManagement.Domain\obj\Debug\net7.0\ref\FileManagement.Domain.dll
